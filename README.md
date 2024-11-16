@@ -1,2 +1,2 @@
-# mohammedsabith.com
+# mohammedsabith
 My Owen Web site
